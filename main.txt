@@ -1,2 +1,2 @@
 print("happy good")
-print("add"
+print("add") 바꾸고 바꾸자
